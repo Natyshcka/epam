@@ -1,1 +1,1 @@
-# for-epam
+# epam
